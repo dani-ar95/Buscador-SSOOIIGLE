@@ -3,7 +3,7 @@
  * it will attend it depending on the type of request                                              *
 ***************************************************************************************************/
 
-#include "Server.cpp"
+#include "Server_class.cpp"
 #include "PaymentGateway.cpp"
 #include <thread>
 #include <unistd.h>
